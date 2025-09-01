@@ -9,12 +9,18 @@
     font-family: "Inter", sans-serif !important;
 }
 
+.react-calendar__navigation__label__labelText{
+    font-size: 16px !important;
+    font-weight: 600 !important;
+} 
 .react-calendar__tile--active{
     background-color: #C3EBFA !important;
     border-radius: 100px !important;
     color: #000000 !important;
 
 }
+
+
 
 .react-calendar__tile--active:hover{
     background-color: #C3EBFA !important;
@@ -26,10 +32,7 @@
     background-color: #25c0f9 !important;
     border-radius: 100px !important;
 }
-.react-calendar__navigation__label__labelText{
-    font-size: 16px !important;
-    font-weight: 600 !important;
-} 
+
 
 .rbc-btn-group:first-child{
     display: none !important;
@@ -71,13 +74,6 @@ display: none !important;
 .rbc-time-gutter.rbc-time-column{
     font-size: 12px !important;
 }
-
-
-.rbc-time-gutter.rbc-time-column{
-    padding: 0px 10px !important;
-}
-
-
 .rbc-time-gutter.rbc-time-column .rbc-timeslot-group{
     padding: 0px 20px !important;
 }
@@ -96,7 +92,7 @@ display: none !important;
     border:none !important;
     color:black !important;   
     padding: 10px !important;
-    margin: 10px 10px !important;
+    margin: 5px !important;
     width: 99% !important;  
     
 }

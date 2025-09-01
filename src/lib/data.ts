@@ -921,91 +921,91 @@ export const calendarEvents = [
   {
     title: "Math",
     allDay: false,
-    start: new Date(2025, 6, 24, 7, 0),  // July 24, 2025, 8:00 AM
-    end: new Date(2025, 6, 24, 7, 45),   // July 24, 2025, 8:45 AM
+    start: new Date(2025, 7, 25, 7, 0),  // agost 24, 2025, 7:00 AM
+    end: new Date(2025, 7, 25, 7, 45),   // agust 24, 2025, 7:45 AM
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2025, 6, 24, 9, 0),  // July 24, 2025, 9:00 AM
-    end: new Date(2025, 6, 24, 9, 45),   // July 24, 2025, 9:45 AM
+    start: new Date(2025, 8, 25, 9, 0),  // July 24, 2025, 9:00 AM
+    end: new Date(2025, 8, 25, 9, 45),   // July 24, 2025, 9:45 AM
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2025, 6, 24, 10, 0),  // July 24, 2025, 10:00 AM
-    end: new Date(2025, 6, 24, 10, 45),   // July 24, 2025, 10:45 AM
+    start: new Date(2025, 8, 25, 10, 0),  // July 24, 2025, 10:00 AM
+    end: new Date(2025, 8, 25, 10, 45),   // July 24, 2025, 10:45 AM
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2025, 6, 24, 11, 0),  // July 24, 2025, 11:00 AM
-    end: new Date(2025, 6, 24, 11, 45),   // July 24, 2025, 11:45 AM
+    start: new Date(2025, 8, 25, 11, 0),  // July 24, 2025, 11:00 AM
+    end: new Date(2025, 8, 25, 11, 45),   // July 24, 2025, 11:45 AM
   },
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2025, 6, 25, 13, 0),  // July 25, 2025, 1:00 PM
-    end: new Date(2025, 6, 25, 13, 45),   // July 25, 2025, 1:45 PM
+    start: new Date(2025, 8, 25, 13, 0),  // August 25, 2025, 1:00 PM
+    end: new Date(2025, 8, 25, 13, 45),   // August 25, 2025, 1:45 PM
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2025, 6, 25, 14, 0),  // July 25, 2025, 2:00 PM
-    end: new Date(2025, 6, 25, 14, 45),   // July 25, 2025, 2:45 PM
+    start: new Date(2025, 8, 25, 14, 0),  // August 25, 2025, 2:00 PM
+    end: new Date(2025, 8, 25, 14, 45),   // August 25, 2025, 2:45 PM
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2025, 6, 25, 9, 0),   // July 25, 2025, 9:00 AM
-    end: new Date(2025, 6, 25, 9, 45),    // July 25, 2025, 9:45 AM
+    start: new Date(2025, 8, 26, 9, 0),   // August 26, 2025, 9:00 AM
+    end: new Date(2025, 8, 26, 9, 45),    // August 26, 2025, 9:45 AM
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2025, 6, 26, 10, 0),  // July 26, 2025, 10:00 AM
+    start: new Date(2025, 8, 26, 10, 0),  // August 26, 2025, 10:00 AM
     end: new Date(2025, 6, 26, 10, 45),   // July 26, 2025, 10:45 AM
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2025, 6, 24, 8, 0),  // July 26, 2025, 11:00 AM
-    end: new Date(2025, 6, 24, 8, 45),   // July 26, 2025, 8:45 AM
+    start: new Date(2025, 8, 26, 11, 0),  // August 26, 2025, 11:00 AM
+    end: new Date(2025, 8, 26, 11, 45),   // August 26, 2025, 11:45 AM
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2025, 6, 26, 14, 0),  // July 26, 2025, 2:00 PM
+    start: new Date(2025, 8, 26, 14, 0),  // August 26, 2025, 2:00 PM
     end: new Date(2025, 6, 26, 14, 45),   // July 26, 2025, 2:45 PM
   },
   {
     title: "Math",
     allDay: false,
-    start: new Date(2025, 6, 27, 8, 0),   // July 27, 2025, 8:00 AM
-    end: new Date(2025, 6, 27, 8, 45),    // July 27, 2025, 8:45 AM
+    start: new Date(2025, 8, 27, 8, 0),   // August 27, 2025, 8:00 AM
+    end: new Date(2025, 8, 27, 8, 45),    // August 27, 2025, 8:45 AM
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2025, 6, 27, 10, 0),  // July 27, 2025, 10:00 AM
+    start: new Date(2025, 8, 27, 10, 0),  // August 27, 2025, 10:00 AM
     end: new Date(2025, 6, 27, 10, 45),   // July 27, 2025, 10:45 AM
   },
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2025, 6, 28, 13, 0),  // July 28, 2025, 1:00 PM
-    end: new Date(2025, 6, 28, 13, 45),   // July 28, 2025, 1:45 PM
+    start: new Date(2025, 8, 28, 13, 0),  // August 28, 2025, 1:00 PM
+    end: new Date(2025, 8, 28, 13, 45),   // August 28, 2025, 1:45 PM
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 7, 14, 14, 0),
-    end: new Date(2024, 7, 13, 14, 45),
+    start: new Date(2025, 8, 29, 14, 0), // August 29, 2025, 2:00 PM
+    end: new Date(2025, 8, 29, 14, 45),   // August 29, 2025, 2:45 PM
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2024, 7, 15, 9, 0),
+    start: new Date(2024, 7, 15, 9, 0), //
     end: new Date(2024, 7, 15, 9, 45),
   },
   {
@@ -1057,5 +1057,17 @@ export const calendarEvents = [
     allDay: false,
     start: new Date(2024, 7, 16, 14, 0),
     end: new Date(2024, 7, 16, 14, 45),
+  },
+  {
+    title: "Free",
+    allDay: false,
+    start: new Date(2025, 8, 1, 10, 0),
+    end: new Date(2025, 8, 1, 10, 45),
+  },
+  {
+    title: "History",
+    allDay: false,
+    start: new Date(2025, 7, 31, 12, 0),
+    end: new Date(2025, 7, 31, 12, 45),
   },
 ];
